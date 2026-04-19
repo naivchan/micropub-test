@@ -14,6 +14,17 @@
 
 <div id="micropub-marker" style="display:none;">--- MICROPUB-TARGET ---</div>
 
+    <article class="post h-entry test" id="0003">
+        <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅18 Apr 2026 🕐6:30 PM</time> <a href="#0003" class="u-uid">#0003</a></div>
+        <div class="e-content">
+            Testing the image upload
+            
+        </div>
+        <section class="tags p-category">
+            <a href="#" class="inline-tag" data-tag="test">#test</a>
+        </section>
+    </article>
+
     <article class="post h-entry test" id="0002">
         <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅18 Apr 2026 🕐6:23 PM</time> <a href="#0002" class="u-uid">#0002</a></div>
         <div class="e-content">
