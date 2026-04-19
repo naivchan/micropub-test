@@ -14,6 +14,18 @@
 
 <div id="micropub-marker" style="display:none;">--- MICROPUB-TARGET ---</div>
 
+    <article class="post h-entry" id="0004">
+        <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅18 Apr 2026 🕐6:30 PM</time> <a href="#0004" class="u-uid">#0004</a></div>
+        <div class="e-content">
+            sakura petals test image
+            
+        <p><img src="/assets/images/uploads/1776562250779-tomoko-uji-up_IHPsJvSI-unsplash.jpg" alt="Upload" style="max-width:100%; height:auto; border-radius:8px;"></p>
+        </div>
+        <section class="tags p-category">
+            
+        </section>
+    </article>
+
     <article class="post h-entry test" id="0003">
         <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅18 Apr 2026 🕐6:30 PM</time> <a href="#0003" class="u-uid">#0003</a></div>
         <div class="e-content">
