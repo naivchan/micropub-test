@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
 
 <link rel="me" href="https://github.com/naivchan">
