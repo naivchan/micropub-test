@@ -1,6 +1,7 @@
 const axios = require('axios');
 const Busboy = require('busboy');
-const { micropub } = require('../config');
+// This keeps breaking the Netlify build, so remove this. 
+// const { micropub } = require('../config');
 
 const parseMultipart = (event) => {
     return new Promise((resolve, reject) => {
