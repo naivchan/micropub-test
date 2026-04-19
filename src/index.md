@@ -1,3 +1,13 @@
+<head>
+
+<link rel="me" href="https://github.com/naivchan">
+
+<link rel="micropub" href="https://your-test-site.netlify.app/.netlify/functions/micropub">
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+    
+</head>
+
 # My Test Microblog
 
 
