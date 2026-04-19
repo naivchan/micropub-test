@@ -1,5 +1,6 @@
 const axios = require('axios');
 const Busboy = require('busboy');
+const { micropub } = require('../config');
 
 const parseMultipart = (event) => {
     return new Promise((resolve, reject) => {
