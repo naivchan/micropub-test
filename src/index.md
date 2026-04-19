@@ -14,6 +14,17 @@
 
 <div id="micropub-marker" style="display:none;">--- MICROPUB-TARGET ---</div>
 
+    <article class="post h-entry test" id="0002">
+        <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅18 Apr 2026 🕐6:23 PM</time> <a href="#0002" class="u-uid">#0002</a></div>
+        <div class="e-content">
+            Testing the micropub! Hope this shows up on the index.md file.
+            
+        </div>
+        <section class="tags p-category">
+            <a href="#" class="inline-tag" data-tag="test">#test</a>
+        </section>
+    </article>
+
 <article class="post" id="0001">
     <div class="post-header">Initial Post</div>
     <div class="e-content">Hello world!</div>
