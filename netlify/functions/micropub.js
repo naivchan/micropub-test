@@ -28,6 +28,20 @@ const parseMultipart = (event) => {
 };
 
 exports.handler = async (event) => {
+        // 1. The "Handshake" - Add this part!
+    if (event.httpMethod === "OPTIONS") {
+        return {
+            statusCode: 200,
+            headers: {
+                "Access-Control-Allow-Origin": "*",
+                "Access-Control-Allow-Headers": "Content-Type, Authorization",
+                "Access-Control-Allow-Methods": "POST, GET, OPTIONS",
+            },
+            body: "CORS Handshake OK",
+        };
+    }
+
+    // 2. Your existing code starts here
     if (event.httpMethod !== 'POST') return { statusCode: 405, body: 'Method Not Allowed' };
     const authHeader = event.headers.authorization;
     if (!authHeader) return { statusCode: 401, body: 'Missing Token' };
