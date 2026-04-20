@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Micropub Test</title>
+    <link>https://navi-micropub-test.netlify.app</link>
+    <description>Generic description.</description>
+    <lastBuildDate>Mon, 20 Apr 2026 09:23:44 -0700</lastBuildDate>
+    <generator>PyRSS2Gen-1.1.0</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <item>
+      <title>Post #0001</title>
+      <link>https://navi-micropub-test.netlify.app/#0001</link>
+      <description/>
+      <guid isPermaLink="false">0001</guid>
+      <pubDate>Mon, 20 Apr 2026 09:23:44 -0700</pubDate>
+    </item>
+    <item>
+      <title>Post #0008</title>
+      <link>https://navi-micropub-test.netlify.app/#0008</link>
+      <description/>
+      <guid isPermaLink="false">0008</guid>
+      <pubDate>Mon, 20 Apr 2026 09:23:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Post #0007</title>
+      <link>https://navi-micropub-test.netlify.app/#0007</link>
+      <description/>
+      <guid isPermaLink="false">0007</guid>
+      <pubDate>Mon, 20 Apr 2026 08:33:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Post #0006</title>
+      <link>https://navi-micropub-test.netlify.app/#0006</link>
+      <description/>
+      <guid isPermaLink="false">0006</guid>
+      <pubDate>Sat, 18 Apr 2026 20:42:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Post #0005</title>
+      <link>https://navi-micropub-test.netlify.app/#0005</link>
+      <description/>
+      <guid isPermaLink="false">0005</guid>
+      <pubDate>Sat, 18 Apr 2026 18:36:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Post #0004</title>
+      <link>https://navi-micropub-test.netlify.app/#0004</link>
+      <description/>
+      <guid isPermaLink="false">0004</guid>
+      <pubDate>Sat, 18 Apr 2026 18:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Post #0003</title>
+      <link>https://navi-micropub-test.netlify.app/#0003</link>
+      <description/>
+      <guid isPermaLink="false">0003</guid>
+      <pubDate>Sat, 18 Apr 2026 18:30:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Post #0002</title>
+      <link>https://navi-micropub-test.netlify.app/#0002</link>
+      <description/>
+      <guid isPermaLink="false">0002</guid>
+      <pubDate>Sat, 18 Apr 2026 18:23:00 -0700</pubDate>
+    </item>
+  </channel>
+</rss>
