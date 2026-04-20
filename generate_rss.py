@@ -25,7 +25,7 @@ def get_dt_object(date_text):
         return datetime.now(PACIFIC_TZ)
 
 # 1. Load HTML
-with open("index.html", "r", encoding="utf-8") as f:
+with open("src/index.md", "r", encoding="utf-8") as f:
     soup = BeautifulSoup(f, "html.parser")
 
 posts = soup.find_all("article", class_="post")
