@@ -14,6 +14,17 @@
 
 <div id="micropub-marker" style="display:none;">--- MICROPUB-TARGET ---</div>
 
+    <article class="post h-entry test" id="0009">
+        <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅20 Apr 2026 🕐9:30 AM</time> <a href="#0009" class="u-uid">#0009</a></div>
+        <div class="e-content">
+            Testing the updated rss generator
+            
+        </div>
+        <section class="tags p-category">
+            <a href="#" class="inline-tag" data-tag="test">#test</a>
+        </section>
+    </article>
+
     <article class="post h-entry" id="0008">
         <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅20 Apr 2026 🕐9:23 AM</time> <a href="#0008" class="u-uid">#0008</a></div>
         <div class="e-content">
