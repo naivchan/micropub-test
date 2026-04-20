@@ -1,5 +1,8 @@
 name: Generate RSS Feed
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch: # This allows you to click a button to run it manually
 
