@@ -4,64 +4,73 @@
     <title>Micropub Test</title>
     <link>https://navi-micropub-test.netlify.app</link>
     <description>Generic description.</description>
-    <lastBuildDate>Mon, 20 Apr 2026 09:23:44 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 09:30:20 GMT</lastBuildDate>
     <generator>PyRSS2Gen-1.1.0</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
       <title>Post #0001</title>
       <link>https://navi-micropub-test.netlify.app/#0001</link>
-      <description/>
+      <description>Hello world!</description>
       <guid isPermaLink="false">0001</guid>
-      <pubDate>Mon, 20 Apr 2026 09:23:44 -0700</pubDate>
+      <pubDate>Mon, 20 Apr 2026 09:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Post #0009</title>
+      <link>https://navi-micropub-test.netlify.app/#0009</link>
+      <description>Testing the updated rss generator</description>
+      <guid isPermaLink="false">0009</guid>
+      <pubDate>Mon, 20 Apr 2026 09:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Post #0008</title>
       <link>https://navi-micropub-test.netlify.app/#0008</link>
-      <description/>
+      <description>Testing the RSS feed generator again</description>
       <guid isPermaLink="false">0008</guid>
-      <pubDate>Mon, 20 Apr 2026 09:23:00 -0700</pubDate>
+      <pubDate>Mon, 20 Apr 2026 09:23:00 GMT</pubDate>
     </item>
     <item>
       <title>Post #0007</title>
       <link>https://navi-micropub-test.netlify.app/#0007</link>
-      <description/>
+      <description>Testing the RSS generator with the Load HTML step being changed to src/index.md</description>
       <guid isPermaLink="false">0007</guid>
-      <pubDate>Mon, 20 Apr 2026 08:33:00 -0700</pubDate>
+      <pubDate>Mon, 20 Apr 2026 08:33:00 GMT</pubDate>
     </item>
     <item>
       <title>Post #0006</title>
       <link>https://navi-micropub-test.netlify.app/#0006</link>
-      <description/>
+      <description>testing again for {micropub}</description>
       <guid isPermaLink="false">0006</guid>
-      <pubDate>Sat, 18 Apr 2026 20:42:00 -0700</pubDate>
+      <pubDate>Sat, 18 Apr 2026 20:42:00 GMT</pubDate>
     </item>
     <item>
       <title>Post #0005</title>
       <link>https://navi-micropub-test.netlify.app/#0005</link>
-      <description/>
+      <description>test #4</description>
       <guid isPermaLink="false">0005</guid>
-      <pubDate>Sat, 18 Apr 2026 18:36:00 -0700</pubDate>
+      <pubDate>Sat, 18 Apr 2026 18:36:00 GMT</pubDate>
     </item>
     <item>
       <title>Post #0004</title>
       <link>https://navi-micropub-test.netlify.app/#0004</link>
-      <description/>
+      <description>sakura petals test image
+            
+        &lt;p&gt;&lt;img alt="Upload" src="https://navi-micropub-test.netlify.app/assets/images/uploads/1776562250779-tomoko-uji-up_IHPsJvSI-unsplash.jpg" style="max-width:100%; height:auto; border-radius:8px;"/&gt;&lt;/p&gt;</description>
       <guid isPermaLink="false">0004</guid>
-      <pubDate>Sat, 18 Apr 2026 18:30:00 -0700</pubDate>
+      <pubDate>Sat, 18 Apr 2026 18:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Post #0003</title>
       <link>https://navi-micropub-test.netlify.app/#0003</link>
-      <description/>
+      <description>Testing the image upload</description>
       <guid isPermaLink="false">0003</guid>
-      <pubDate>Sat, 18 Apr 2026 18:30:00 -0700</pubDate>
+      <pubDate>Sat, 18 Apr 2026 18:30:00 GMT</pubDate>
     </item>
     <item>
       <title>Post #0002</title>
       <link>https://navi-micropub-test.netlify.app/#0002</link>
-      <description/>
+      <description>Testing the micropub! Hope this shows up on the index.md file.</description>
       <guid isPermaLink="false">0002</guid>
-      <pubDate>Sat, 18 Apr 2026 18:23:00 -0700</pubDate>
+      <pubDate>Sat, 18 Apr 2026 18:23:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
