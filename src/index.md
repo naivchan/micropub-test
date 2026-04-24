@@ -14,16 +14,6 @@
 
 <div id="micropub-marker" style="display:none;">--- MICROPUB-TARGET ---</div>
 
-    <article class="post h-entry diary" id="0010">
-        <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅23 Apr 2026 🕐7:52 PM</time> <a href="#0010" class="u-uid">#0010</a></div>
-        <div class="e-content">
-            The days I've been waiting for my XTeink x4 are the longest I've ever had lmao. I keep refreshing the tracking to see when it's coming.
-            
-        </div>
-        <section class="tags p-category">
-            <a href="#" class="inline-tag" data-tag="diary">#diary</a>
-        </section>
-    </article>
 
     <article class="post h-entry test" id="0009">
         <div class="post-header"><span class="p-author">@arimamary</span> <time class="dt-published">📅20 Apr 2026 🕐9:30 AM</time> <a href="#0009" class="u-uid">#0009</a></div>
