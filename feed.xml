@@ -8,19 +8,6 @@
     <generator>PyRSS2Gen-1.1.0</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
-      <title>Post #0001</title>
-      <link>https://navi-micropub-test.netlify.app/#0001</link>
-      <description>Hello world!</description>
-      <guid isPermaLink="false">0001</guid>
-      <pubDate>Thu, 23 Apr 2026 19:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Post #0010</title>
-      <link>https://navi-micropub-test.netlify.app/#0010</link>
-      <description>The days I've been waiting for my XTeink x4 are the longest I've ever had lmao. I keep refreshing the tracking to see when it's coming.</description>
-      <guid isPermaLink="false">0010</guid>
-      <pubDate>Thu, 23 Apr 2026 19:52:00 GMT</pubDate>
-    </item>
     <item>
       <title>Post #0009</title>
       <link>https://navi-micropub-test.netlify.app/#0009</link>
@@ -78,6 +65,13 @@
       <description>Testing the micropub! Hope this shows up on the index.md file.</description>
       <guid isPermaLink="false">0002</guid>
       <pubDate>Sat, 18 Apr 2026 18:23:00 GMT</pubDate>
+    </item>
+          <item>
+      <title>Post #0001</title>
+      <link>https://navi-micropub-test.netlify.app/#0001</link>
+      <description>Hello world!</description>
+      <guid isPermaLink="false">0001</guid>
+      <pubDate>Thu, 23 Apr 2026 19:52:34 GMT</pubDate>
     </item>
   </channel>
 </rss>
