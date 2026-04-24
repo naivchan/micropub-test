@@ -4,7 +4,7 @@
     <title>Micropub Test</title>
     <link>https://navi-micropub-test.netlify.app</link>
     <description>Generic description.</description>
-    <lastBuildDate>Mon, 20 Apr 2026 09:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 19:52:34 GMT</lastBuildDate>
     <generator>PyRSS2Gen-1.1.0</generator>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <item>
@@ -12,7 +12,14 @@
       <link>https://navi-micropub-test.netlify.app/#0001</link>
       <description>Hello world!</description>
       <guid isPermaLink="false">0001</guid>
-      <pubDate>Mon, 20 Apr 2026 09:30:20 GMT</pubDate>
+      <pubDate>Thu, 23 Apr 2026 19:52:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Post #0010</title>
+      <link>https://navi-micropub-test.netlify.app/#0010</link>
+      <description>The days I've been waiting for my XTeink x4 are the longest I've ever had lmao. I keep refreshing the tracking to see when it's coming.</description>
+      <guid isPermaLink="false">0010</guid>
+      <pubDate>Thu, 23 Apr 2026 19:52:00 GMT</pubDate>
     </item>
     <item>
       <title>Post #0009</title>
